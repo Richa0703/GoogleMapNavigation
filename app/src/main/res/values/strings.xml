@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleNavigation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="source">Enter source</string>
+    <string name="destination">Enter destination</string>
+    <string name="action_settings">Settings</string>
+</resources>
